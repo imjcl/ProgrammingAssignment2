@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## makeCacheMatrix and cacheSolve work together to calculate the inverse of a 
+## matrix - using makeCacheMatrix can be used to create a cached matrix
+## and if a inverse matrix is calculated using cacheSolve it will be cached.
 
 ## makeCacheMatrix takes a matrix (preferrably square), and returns a list
 ## which stores functions. 
